@@ -1,7 +1,6 @@
 import java.util.*;
 
 public class Main{
-    static int arg[] = {4,2,3,3,3,3,3,3,3,3};
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         while (true){
